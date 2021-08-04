@@ -1,4 +1,4 @@
-# sfixApp
+# sfixApp - Test Pre-Release
 
 Download der APK:
 
