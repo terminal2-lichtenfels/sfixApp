@@ -1,4 +1,5 @@
-# sfix App 2.3.0 - Test Pre-Release
+# sfix App 2.3.0 Developer Version
+## nur für interne Tests / kein Echteinsatz!
 
 ### Änderungen im Vergleich zur Vorversion:
 - Anpassung bei der Markierung von geänderten PDF-Dokumenten
