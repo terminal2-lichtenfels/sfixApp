@@ -1,6 +1,6 @@
 # sfix App 2.3.0 - Test Pre-Release
 
-#### Änderungen im Vergleich zur Vorversion:
+### Änderungen im Vergleich zur Vorversion:
 - Anpassung bei der Markierung von geänderten PDF-Dokumenten
 - Verbesserung des Datenuploads bei der Synchronisation von großen Datenmengen
 - Bereitstellung Funktion zur erneuter Datenübertragung nach Verbindungsabbruch
