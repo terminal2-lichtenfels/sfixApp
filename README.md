@@ -8,7 +8,7 @@
 - Optimierung der Verbindungsstatus-Anzeige
 
 Download der APK:
-https://test.sfixapp.com/files/apk/2.3.0/sfixapp.apk
+- https://test.sfixapp.com/files/apk/2.3.0/sfixapp.apk
 
 Installation:
 - Laden Sie die APK über den oben stehend Link herunter.
