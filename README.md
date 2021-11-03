@@ -1,4 +1,4 @@
-# sfix App 2.3.0 Developer Version
+# sfix App 2.3.1 Developer Version
 ## nur für interne Tests / kein Echteinsatz!
 
 ### Änderungen im Vergleich zur Vorversion:
@@ -9,7 +9,7 @@
 - Optimierung der Verbindungsstatus-Anzeige
 
 ### Download der APK:
-- https://test.sfixapp.com/files/apk/2.3.0/sfixapp.apk
+- https://test.sfixapp.com/files/apk/2.3.1/sfixapp.apk
 
 ### Installation:
 - Laden Sie die APK über den oben stehend Link herunter.
